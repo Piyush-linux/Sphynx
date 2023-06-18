@@ -2,6 +2,7 @@
 
 - type: github
   icon: "fab fa-github"
+  utl: "https://github.com/Piyush-linux"
 
 - type: twitter
   icon: "fab fa-twitter"
