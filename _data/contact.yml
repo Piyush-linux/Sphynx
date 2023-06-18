@@ -6,14 +6,15 @@
 
 - type: twitter
   icon: "fab fa-twitter"
+  url: "https://github.com/Piyush-linux"
 
 - type: instagram
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: linkedin
-  icon: "fas fa-rss"
-  noblank: true
+# - type: linkedin
+#   icon: "fas fa-rss"
+#   noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
