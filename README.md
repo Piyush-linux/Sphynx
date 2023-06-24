@@ -48,5 +48,6 @@ This work is published under [MIT][mit] License.
 
 # Resources
 - title creator : 
-- emoji : 
-- quote : 
+- emoji : https://emojipedia.org/
+- quote : https://animemotivation.com/motivational-anime-quotes/
+- have clues in each blog , which can be used to get resourced pack sheet
