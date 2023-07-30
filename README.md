@@ -51,3 +51,9 @@ This work is published under [MIT][mit] License.
 - emoji : https://emojipedia.org/
 - quote : https://animemotivation.com/motivational-anime-quotes/
 - have clues in each blog , which can be used to get resourced pack sheet
+
+---
+
+# Topic
+- [ ] Bionic Reading
+- [ ] How to learn any IT field
